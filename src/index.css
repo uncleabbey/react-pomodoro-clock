@@ -1,0 +1,11 @@
+.App {
+text-align: center;
+}
+
+.btn {
+  margin: 10px;
+}
+#app {
+  background-color: lightblue;
+  border: 5px solid black;
+}
